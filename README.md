@@ -1,0 +1,1 @@
+Data Science for Business Project B: Churn at Xoom - Utilized Gradient Boosting Trees, k-Nearest Neighbors, and Random Forests to predict customer churn, with GBT as the top-performing model. Analysis and evaluation metrics provided.
